@@ -8,7 +8,7 @@ from .common import logger
 
 class LLM:
     """ 
-    Just a collection of static methods
+    wrapper for Ollama methods
     """
     def __init__(self,model:str):
         self.model = model
