@@ -19,8 +19,8 @@ The toolchain reads an LV from an XML file (`LV.X83`) and a supplier offer from 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [repository_url]
-    cd [repository_directory]
+    git clone git@github.com:FredNoonienSingh/llm_toolchain.git
+    cd llm_toolchain
     ```
 2.  **Install dependencies:**
     ```bash
