@@ -1,0 +1,107 @@
+1.1.10
+(000070)
+Juratherm Sonderspeicher 3133 Liter
+Pufferspeicher für Innenaufstellung mit
+Sonderausstattung für alle Warmwasser-
+Zentralheizungsanlagen. Verwendbar für:
+festbrennstoffe-, ölgefeuerte Heizkessel,
+Wärmepumpen, Solaranlagen, Gas- oder
+Elektrodurchlauferhitzer. Gefertigt aus Qualitätsstahl
+S235JR+AR eingestuft nach Druckgeräterichtlinie
+2014/68/EU in Bereich Artikel 4, Absatz 3
+(Betriebsmedium: Wasser ohne Gaspolster). Außen mit
+Rostschutzanstrich, innen roh.
+Technische Daten Alle Maße in mm ohne Isolierung
+Inhalt: 3133 Liter
+Durchmesser: 1400 mm
+Höhe (Oberkante Entlüftung): 2350 mm
+Kippmaß: 2477 mm
+Gewicht (ohne Einbauten): ca. 425 kg
+Betriebsdruck (min.): 0 bar
+Betriebsdruck (max.): 6 bar
+Prüfdruck: 10 bar
+Betriebstemperatur (min.): 20 °C
+Betriebstemperatur (max.): 95 °C
+Ausrüstung
+12x Muffen nach Wahl 1/2", 1", 1 1/2"
+1x Entlüftung 1 1/2" 50 mm
+4x Flansch DN80 / PN6
+4x Bogenrohr DN100 für Flansch DN80, nach oben
+bzw. unten zum Klöpperboden gerichtet zur
+Strömungsberuhigung und Volumenausnutzung
+1x Lochblech, freier Durchgang bis 50%, d=1100mm
+3x Fuß mit Bodenplatte, 50 mm Bodenfreiheit
+Stutzenlänge bis 260mm, Gegenflansche, Dichtungen,
+Schrauben und sonstiges Zubehör bauseits.
+Anschlüsse nach Kundenvorgabe, soweit technisch
+möglich. Zeichnungserstellung nach Auftragseingang.
+02SN
+1,00 ST
+
+
+
+1.1.20
+(000080)
+Juratherm Sonderisolierung 130mm Vlies
+Technische Daten Alle Maße in mm
+Isolierung für Sonderspeicher: 3133 Liter
+Durchmesser ohne Isolierung: 1400 mm
+Durchmesser inkl. Isolierung: 1660 mm
+Höhe ohne Isolierung (Oberkante Entlüftung): 2350 mm
+Höhe inkl. Isolierung und Entlüftung: 2450 mm
+Sonderspeicher Vlies Isolierung
+Material: Polyesterfaservlies
+Isolierungsfarbe: Silber (Standard)
+Isolierstärke Mantel (roh): 145 mm
+Isolierstärke Mantel (montiert): 130 mm
+Raumgewicht: 2340 g/m²
+Isolierstärke Deckel: 150 mm
+Raumgewicht: 2000 g/m²
+Lambda: 0,0388 W/mK
+Brandklasse: B1 nach DIN4102
+Temperaturbeständigkeit: 110 °C
+Progressiver Aufbau:
+- außen fest innen weich, dadurch
+- Passgenauigkeit ohne Kaminverluste
+- Optimale Dämmung im Bereich der Anschlüsse
+- 40% weniger Wärmestillstandsverluste
+gegenüber Weichschaum
+- Montagefreundlich durch geringes Gewicht
+Nicht für Kaltwasseranlagen geeignet
+da nicht dampfdiffusionsdicht.
+02SN
+1,00 ST
+
+
+1.1.30
+(000090)
+Juratherm Sonderisolierung 260mm Vlies
+Technische Daten Alle Maße in mm
+Isolierung für Sonderspeicher: 3133 Liter
+Durchmesser ohne Isolierung: 1400 mm
+Durchmesser inkl. Isolierung: 1920 mm
+Höhe ohne Isolierung (Oberkante Entlüftung): 2350 mm
+Höhe inkl. Isolierung und Entlüftung: 2600 mm
+! Bafa und EnEV konform !
+Sonderspeicher Vlies Isolierung
+Material: Polyesterfaservlies
+Isolierungsfarbe: Grau
+Isolierstärke Mantel (roh): 280 mm
+Isolierstärke Mantel (montiert): 260 mm
+Raumgewicht: 2340 g/m²
+Isolierstärke Deckel: 300 mm
+Raumgewicht: 2000 g/m²
+Lambda: 0,0388 W/mK
+Brandklasse: B2 nach DIN4102
+Temperaturbeständigkeit: 110 °C
+Progressiver Aufbau:
+- außen fest innen weich, dadurch
+- Passgenauigkeit ohne Kaminverluste
+- Optimale Dämmung im Bereich der Anschlüsse
+- 50% weniger Wärmestillstandsverluste
+gegenüber Weichschaum
+- Montagefreundlich durch geringes Gewicht
+Nicht für Kaltwasseranlagen geeignet
+da nicht dampfdiffusionsdicht.
+02SN
+1,00 ST
